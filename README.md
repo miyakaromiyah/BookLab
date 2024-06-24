@@ -1,6 +1,6 @@
 # BookLab App
 
-<img src="assets/Image/logo.png" width="200px"><br>
+<img src="assets/Images/logo.png" width="200px"><br>
 
 Aplikasi BookLab sebagai alat efektif untuk mendukung tujuan tersebut. Melalui kemajuan teknologi mobile dan internet, aplikasi BookLab memberikan minat membaca dengan mudah.Penggunaan data dan analitika memudahkan untuk membaca novel . Dengan adanya aplikasi BookLab, memiliki potensi besar dalam mempengaruhi kebiasaan pengguna untuk minat membaca.
 
